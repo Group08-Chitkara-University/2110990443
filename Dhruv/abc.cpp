@@ -8,7 +8,7 @@ int main()
 	{
 		int b;
 		for(b=1;b<=a;b++){
-			cout<<a+b;
+			cout<<a+2b;
 
 		}
 
