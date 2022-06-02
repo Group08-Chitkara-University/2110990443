@@ -2,7 +2,7 @@
 using namespace std;
 
 class employee {
-public:
+private:
 
    int num;
    char sname[100];
